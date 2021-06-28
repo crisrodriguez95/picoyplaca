@@ -1,0 +1,16 @@
+{
+    "name": "vendor/picoyplaca",
+    "description": "Description of project picoyplaca.",
+    "authors": [
+        {
+            "name": "danyl",
+            "email": "danylove9569@hotmail.com"
+        }
+    ],
+    "require": {},
+    
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+
+}
