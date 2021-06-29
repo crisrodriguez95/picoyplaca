@@ -40,7 +40,7 @@ class picoyplacaController {
         $lastDigit = substr($array[0], -1);
         $day = date('D', strtotime($array[1]));
 
-        print_r('La placa: ' . $array[0] . $this->getRestriction($lastDigit, $day, $array[2]) . ' a las ' . $array[2]);
+        print_r('La placa: ' . $array[0] . $this->getRestriction($lastDigit, $day, $array[2]) . ' ' . $array[2]);
     }
     
     
