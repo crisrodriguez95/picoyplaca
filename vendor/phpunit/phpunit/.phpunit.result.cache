@@ -1,0 +1,1 @@
+{"version":1,"defects":{"picoyplacaControllerTest::test_getRestriction":4,"picoyplacaControllerTest::test_getParameters":3},"times":{"picoyplacaControllerTest::test_getRestriction":0.007,"picoyplacaControllerTest::test_getParameters":0.009}}
